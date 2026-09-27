@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
 
-const VIDEO_URL = '/mainframe-hero.mp4';
+const VIDEO_URL = './mainframe-hero.mp4';
 const SENSITIVITY = 0.8;
 const EMAIL = 'ashesmanandhar24@gmail.com';
 const TYPEWRITER_TEXT =
